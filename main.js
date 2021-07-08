@@ -1,29 +1,5 @@
-/*
-
-ÍNDICE:
-	§1. Variables iniciales.
-
-	§2. Cálculo de las unidades.
-
-	§3. Cálculo de las decenas.
-
-	§4. Cálculo de las centenas.
-
-	§5. Cálculo de las unidades de mil.
-
-	§6. Cálculo de las decenas de mil.
-
-	§7. Cálculo de unidades especiales en las unidades y 				decenas.
-
-	§8. Cálculo de unidades especiales en las unidades, 				decenas y centenas.
-
-	§9. Cálculo de unidades especiales en las unidades, 				decenas, centenas y unidades de mil.
-
-	§10. Llamada a todas las funciones.
-
-	§11.	Impresión en pantalla del resultado final.
-
-*/
+//Code by anmabe06
+//May 29th of 2021
 
 //	§1. Variables iniciales.
 var numero = prompt("Dime tu número");
